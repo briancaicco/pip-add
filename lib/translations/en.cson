@@ -5,7 +5,7 @@
 "attemptToConnect": "Attempt to connect {{attempt}} of {{attemptMax}}."
 "yes": "Yes"
 "no" : "No"
-"emptyList" : "There is nothing here!"
+"emptyList" : "No Results"
 "enabled": "Enabled"
 "menu":
     "title": "Menu"
